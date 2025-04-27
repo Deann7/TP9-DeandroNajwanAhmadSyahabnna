@@ -22,7 +22,7 @@ function Home() {
       <div className="flex flex-col space-y-8 items-center">
         <h1 className="text-4xl font-bold text-white">TP_FZ_DeandroNajwanAhmadSyahbanna_SBD9</h1>
         <div className="flex space-x-6">
-          <AnimatedButton to="/no2">Number 2 (Personal Page)</AnimatedButton>
+          <AnimatedButton to="/no2">Number 1&2 (Personal Page)</AnimatedButton>
           <AnimatedButton to="/no3">Number 3 (Counter Demo)</AnimatedButton>
         </div>
       </div>
